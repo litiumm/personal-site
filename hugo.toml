@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 [params]
   description = "a site for fun and learning"
   copyright = "Copyright © 2020 Nathan"
-  dark = "auto"
+  dark = "on"
   highlight = true
 
 [menu]
