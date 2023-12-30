@@ -1,5 +1,5 @@
 baseURL = "https://lithiumm.netlify.app"
-title = "Nathan's blog"
+title = "Adi's blog"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
