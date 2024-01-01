@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "a site for fun and learning"
-  copyright = "Copyright © 2020 Nathan"
+  copyright = "Copyright © 2020 adi"
   dark = "on"
   highlight = true
 
